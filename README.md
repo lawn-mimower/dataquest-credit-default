@@ -110,4 +110,4 @@ eda/graphs/          saved EDA figures
 requirements.txt
 ```
 
-Licence: not yet specified.
+Licence: MIT — see [LICENSE](LICENSE).
