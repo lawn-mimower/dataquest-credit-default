@@ -1,0 +1,22 @@
+# Competition data is not distributed with this repo
+data/
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.pdf
+
+# Models and outputs
+*.joblib
+*.pkl
+*.json.model
+*.ubj
+outputs/
+credit_default_predictions.csv
+
+# Environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/

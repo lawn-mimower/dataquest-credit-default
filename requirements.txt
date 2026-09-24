@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy
+scikit-learn
+xgboost>=2.0
+matplotlib
+seaborn
+jupyter
+# Optional: RAPIDS cuDF for the GPU correlation step (falls back to pandas when absent)
+# cudf-cu12
